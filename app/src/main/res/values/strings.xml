@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Wallet Keys Explorer</string>
+
+    <!-- Main activity -->
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send.</string>
+    <string name="main_explore_a_wallet_backup">Explore a wallet backup</string>
+
+    <string name="explore_wallet_password_title">Explore Wallet</string>
+    <string name="explore_wallet_password_message">Enter the wallet password for &quot;%1$s&quot;:</string>
+    <string name="explore_wallet_password_hint">password</string>
+    <string name="explore_wallet_password_show_password">Show password</string>
+
+    <!-- Display wallet activity -->
+    <string name="display_wallet_no_wallet">No wallet loaded</string>
+    <string name="display_wallet_copy_address">Copy Addresses</string>
+    <string name="display_wallet_copy_private">Copy Private Keys</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_option_about">About</string>
+    <string name="title_activity_about">About</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_header_about">About</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_about_version">Version</string>
+    <string name="pref_description_about_version">1.0</string>
+    <string name="pref_title_about_copyright">Copyright</string>
+    <string name="pref_description_about_copyright">© 2017 Erez Wanderman</string>
+    <string name="pref_title_about_source">Source code</string>
+    <string name="pref_description_about_source">https://github.com/erezwanderman/WalletKeysExplorer</string>
+
+    <string name="pref_group_about_contact">Contact</string>
+    <string name="pref_title_about_contact_facebook">App page on Facebook</string>
+    <string name="pref_description_about_contact_facebook">https://www.facebook.com/Wallet-Keys-Explorer-185260345364975</string>
+
+    <string name="pref_group_about_os_credits">This app is using...</string>
+    <string name="pref_title_about_os_credits_bitcoinj">bitcoinj 0.14.5, a Bitcoin protocol implementation</string>
+    <string name="pref_description_about_os_credits_bitcoinj">https://bitcoinj.github.io</string>
+    <string name="pref_title_about_os_credits_bitcoin_wallet">Bitcoin Wallet</string>
+    <string name="pref_description_about_os_credits_bitcoin_wallet">https://github.com/bitcoin-wallet/bitcoin-wallet</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
